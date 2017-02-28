@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AlexDisler/cordova-plugin-inapppurchase.git"
+    "url": "git://github.com/kelter-antunes/cordova-plugin-inapppurchase-kelter.git"
   },
   "keywords": [
     "cordova",
@@ -37,7 +37,7 @@
     "url": "alexdisler.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/AlexDisler/cordova-plugin-inapppurchase",
+  "homepage": "https://github.com/kelter-antunes/cordova-plugin-inapppurchase-kelter",
   "devDependencies": {
     "babel-core": "6.5.2",
     "babel-plugin-syntax-async-functions": "6.5.0",
